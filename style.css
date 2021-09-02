@@ -1,3 +1,7 @@
+.fa-arrow-right {
+  padding-left: 7px;
+}
+
 .navbar {
   background: #f3e8fc;
   font-size: medium;
@@ -54,7 +58,6 @@
 .orange {
   background-color: orange !important;
   color: #fff !important;
-  /* font-size: medium  !important; */
   border: none;
   padding: 7px;
 }
@@ -192,7 +195,7 @@ img {
   text-decoration: none;
   color: #000 !important;
 }
-@media screen and (max-width: 1040px) {
+@media screen and (max-width: 1080px) {
   .footer-header {
     width: 100%;
   }
