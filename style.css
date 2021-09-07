@@ -67,7 +67,6 @@ body {
 .orange {
   background-color: orange !important;
   color: #fff !important;
-  border: none;
   padding: 7px;
 }
 .orange:hover {
@@ -84,7 +83,6 @@ body {
   background: -webkit-linear-gradient(to bottom, #6b309b, #6f4caf);
   background: linear-gradient(to bottom, #7c57c0, #633788);
   color: #fff;
-  border: none;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .purple:hover {
